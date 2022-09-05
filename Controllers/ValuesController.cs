@@ -33,7 +33,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("FIS Data Modified");
             l.Add("CTS ID12 Data Modified");
             l.Add("FIS Data Newly Modified");
-            L.Add("updated");
+          
             l.Add("Third Data Integration");
             l.Add("CDE12 data added");
             l.Add("Schneider Data Added");
@@ -48,6 +48,8 @@ namespace Dockersampleconfig.Controllers
             l.Add("Final Modification");
             l.Add("CTS CDX0102 Data Added");
             l.Add("New CDX0102 modified");
+            
+            l.Add("Update")
             return l;
         }
     }
